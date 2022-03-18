@@ -217,7 +217,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-XPrHcfT0PrO8WkbKZqXkdl1Is4UwYPwuYZCkR9KhaNs=",
+      "hash": "sha256-UCDdIhXYItUEcYCNmTRDYOSCZdCbKqp0OYCXKwdJQOo=",
       "url": "index.html"
     },
     {
@@ -229,5 +229,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "PMzVORkm"
+  "version": "h2IfgeMR"
 };
