@@ -341,9 +341,9 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-yy7c7tS8+x4kwj7i\/NXicvxOYe2hQlUPAwPP6u7o9OA=",
+      "hash": "sha256-dL+5HmfELsFNOsKFLw7zY22eE7EYubm0AeGnQ5SniaU=",
       "url": "webcam.js"
     }
   ],
-  "version": "io0YWPwP"
+  "version": "Gaeqclbk"
 };
